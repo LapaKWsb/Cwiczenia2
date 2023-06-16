@@ -1,7 +1,7 @@
 // See https://aka.ms/new-console-template for more information
 using System;
 
-namespace Zadanie2
+namespace Cwiczenie2
 {
     class Program
     {
